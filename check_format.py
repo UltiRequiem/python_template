@@ -1,7 +1,6 @@
 from os import system
 
-files = [
-]
+files = []
 
 
 def check_format():
