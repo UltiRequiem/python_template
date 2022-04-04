@@ -8,3 +8,7 @@
 </p>
 
 Template for Python projects.
+
+## Licence
+
+Licensed under the MIT License 📄
